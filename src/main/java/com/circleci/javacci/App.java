@@ -12,5 +12,6 @@ public class App
         System.out.println("extension to hello world");
         System.out.println("IT WORLD");
         System.out.println("beginning");
+        int i = 0;
     }
 }
